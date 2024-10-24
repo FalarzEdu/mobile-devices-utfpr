@@ -6,3 +6,4 @@ This is a repository dedicated to storing code created for my mobile development
 
 
 1. task_1 -> Components and the useState hook
+2. task_2 -> Navigation and the use of expo router
